@@ -1,1 +1,1 @@
-# -javafx-blockchain-smartcontract-simulator
+# javafx-blockchain-smartcontract-simulator
